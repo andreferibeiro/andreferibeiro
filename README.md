@@ -29,4 +29,3 @@
 <p align="center"><a href="https://www.linkedin.com/in/andreferibeiro">
          <img src="images/linkedin-logo.png" width="120" /a>
 </p>
-[1]:https://univesp.br/ "São Paulo State Virtual University"

@@ -1,27 +1,31 @@
-<h1>Hi there 👋</h1>
+<h2>Hi there 👋</h2>
 
-<h2>About me</h2>
+<h3>About me:</h3>
 
-- ⚙️ I’m currently working on Engineering.
-- 💻 I’m currently learning Data Science:
+- 🧔🏿‍♂️ My name is André,  I'm 35 years old and I live in São Paulo (BRA).
+- ⚙️ I’m a Mechanical Engineer. My job, in summary, is solve complex problems thru structural analysis in order to overcome the main challenges faced by Engineering Departments.
 
-<p float="left">
-        <img src="images/anaconda-original-wordmark.svg" width="120" />
-        <img src="images/jupyter-original-wordmark.svg" width="80" />
-        <img src="images/pandas-original-wordmark.svg" width="80" />
-        <img src="images/python-original-wordmark.svg" width="80" />
-</p>          
+<h3>Purpose:</h3>
 
--  📧 How to reach me:
+- 💻 My purpose is become a Data Scientist. I’m currently learning Data Science in São Paulo State Virtual University (univesp). In addition, I'm learning about the key tools for data analysis, data vizualization and building machine learning models.
 
-<div id="thumbs">
-  <a href="https://www.linkedin.com/in/andreferibeiro">
-         <img src="images/linkedin-original-wordmark.svg" width="80" alt=""/>
-  </a>
-  <a href="moreira.andrefr@gmail.com">
-         <img src="images/gmail-icon-svg-28.jpg" width="20" />
-  </a>
-  <a href="https://twitter.com/andreferibeiro">
-         <img src="images/twitter-original.svg" width="20" />
-<span class="stretch"></span>
-</div>
+<p align="center">
+        <img src="images/jupyter-original-wordmark.svg" width="70" />
+        <img src="images/pandas-original-wordmark.svg" width="70" />
+        <img src="images/python-original-wordmark.svg" width="70" />
+        <img src="images/logo2_compressed.svg" width="220" />
+        <img src="images/logo-wide-lightbg.svg" width="220" />
+        <img src="images/1200px-Scikit_learn_logo_small.svg.png" width="140" />
+</p>
+
+
+- :octocat: Feel free to visit my Portfolio: https://andreferibeiro.github.io/Portfolio/
+
+
+<h3>Contact:</h3>
+
+-  📧 How to reach me: moreira.andrefr@gmail.com
+
+<p align="center"><a href="https://www.linkedin.com/in/andreferibeiro">
+         <img src="images/linkedin-logo.png" width="120" /a>
+</p>

@@ -2,7 +2,7 @@
 
 <h3>About me:</h3>
 
-- 🧔🏿‍♂️ My name is André,  I'm 35 years old and I live in São Paulo (BRA).
+- 🧔🏿‍♂️ My name is André,  I'm 35 years old and I live in São Paulo (BR).
 - ⚙️ I’m a Mechanical Engineer. My job, in summary, it is solve complex problems thru structural analysis in order to overcome the main challenges faced by Engineering Department.
 
 <h3>Purpose:</h3>

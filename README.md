@@ -29,7 +29,8 @@
 
 <h3>Contact:</h3>
 
--  📨 How to reach me: moreira.andrefr@gmail.com
+-  📨 Please send an e-mail to the address: **moreira.andrefr@gmail.com**.
+-  💬 Or  send me a message on LinkedIn.
 
 <p align="center"><a href="https://www.linkedin.com/in/andreferibeiro">
          <img src="images/linkedin-logo.png" width="120" /a>

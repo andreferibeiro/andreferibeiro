@@ -13,6 +13,7 @@
         <img src="images/python-original-wordmark.svg" width="60" />
         <img src="images/jupyter-original-wordmark.svg" width="60" />
         <img src="images/pandas-original-wordmark.svg" width="60" />
+        <img src="images/2560px-NumPy_logo_2020.svg.png" width="150" />
         <img src="images/logo2_compressed.svg" width="200" />
         <img src="images/logo-wide-lightbg.svg" width="200" />
         <img src="images/1200px-Scikit_learn_logo_small.svg.png" width="120" />

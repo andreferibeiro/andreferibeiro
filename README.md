@@ -11,13 +11,13 @@
 - 💻 My purpose is become a **Data Scientist**. I’m currently graduating with a BS degree in Data Science at the [UNIVESP](https://univesp.br/). In addition, I'm trying to accelerate my learning curve with the key tools for data analysis, data vizualization and building machine learning models.
 
 <p align="center">
-        <img src="images/python-original-wordmark.svg" width="60" />
-        <img src="images/jupyter-original-wordmark.svg" width="60" />
-        <img src="images/pandas-original-wordmark.svg" width="60" />
-        <img src="images/numpylogo.svg" width="120" />
-        <img src="images/logo2_compressed.svg" width="200" />
-        <img src="images/logo-wide-lightbg.svg" width="200" />
-        <img src="images/1200px-Scikit_learn_logo_small.svg.png" width="120" />
+        <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/python-original-wordmark.svg" width="60" /></a>
+        <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="images/jupyter-original-wordmark.svg" width="60" /></a>
+        <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="images/pandas-original-wordmark.svg" width="60" /></a>
+        <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="images/numpylogo.svg" width="120" /></a>
+        <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="images/logo2_compressed.svg" width="200" /></a>
+        <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="images/logo-wide-lightbg.svg" width="200" /></a>
+        <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="images/1200px-Scikit_learn_logo_small.svg.png" width="120" /></a>
 </p>
 
 

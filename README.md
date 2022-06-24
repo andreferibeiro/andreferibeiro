@@ -23,11 +23,14 @@
         <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="images/logo-wide-lightbg.svg" width="200" /></a>
         <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="images/1200px-Scikit_learn_logo_small.svg.png" width="120" /></a>
 </p>
+<h3>Portfolio:</h3>
+
+- 📂 I encourage you to visit my **[Portfolio](https://andreferibeiro.github.io/Portfolio/)**. 
 
 <h3>Contact:</h3>
 
 -  📨 How to reach me: moreira.andrefr@gmail.com
-- 📂 Feel free to visit my Portfolio: https://andreferibeiro.github.io/Portfolio/
+
 <p align="center"><a href="https://www.linkedin.com/in/andreferibeiro">
          <img src="images/linkedin-logo.png" width="120" /a>
 </p>

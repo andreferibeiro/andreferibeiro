@@ -11,7 +11,7 @@
 - 💻 My purpose is become a **Data Scientist**. I’m currently graduating with a BS degree in Data Science at the [UNIVESP](https://univesp.br/). In addition, I'm trying to accelerate my learning curve with the key tools for data analysis, data vizualization and building machine learning models.
 
 <p align="center">
-        <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="images/python-original-wordmark.svg" width="60" /></a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/python-original-wordmark.svg" width="60" /></a>
         <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="images/jupyter-original-wordmark.svg" width="60" /></a>
         <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="images/pandas-original-wordmark.svg" width="60" /></a>
         <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="images/numpylogo.svg" width="120" /></a>

@@ -2,13 +2,13 @@
 
 <h3>About me:</h3>
 
-- 🧔🏿‍♂️ My name is André,  I'm 35 years old and I live in São Paulo (BR).
-- ⚙️ I’m a Mechanical Engineer. My job, in summary, it is solve complex problems thru structural analysis in order to overcome the main challenges faced by Engineering Department.
-- 🗣️ My native language is the Portuguese and I'm comfortable speaking English also.
+- 🧔🏿‍♂️ My name is **André**,  I'm **35** years old and I live in **São Paulo (BR)**.
+- ⚙️ I’m a Mechanical **Engineer**. My job, in summary, it is **solve complex problems** thru structural analysis in order to overcome the main challenges faced by Engineering Department.
+- 🗣️ My native language is **Portuguese** and I'm comfortable speaking **English** also.
 
 <h3>Purpose:</h3>
 
-- 💻 My purpose is become a Data Scientist. I’m currently graduating with a BS degree in Data Science at the [UNIVESP](https://univesp.br/). In addition, I'm trying to accelerate my learning curve with the key tools for data analysis, data vizualization and building machine learning models.
+- 💻 My purpose is become a **Data Scientist**. I’m currently graduating with a BS degree in Data Science at the [UNIVESP](https://univesp.br/). In addition, I'm trying to accelerate my learning curve with the key tools for data analysis, data vizualization and building machine learning models.
 
 <p align="center">
         <img src="images/python-original-wordmark.svg" width="60" />

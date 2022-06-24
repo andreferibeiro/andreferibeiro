@@ -8,7 +8,7 @@
 
 <h3>Purpose:</h3>
 
-- 💻 My purpose is become a **Data Scientist**. I’m currently graduating with a BS degree in Data Science at the [UNIVESP](https://univesp.br/). In addition, I'm trying to accelerate my learning curve with the key tools for data analysis, data vizualization and building machine learning models.
+- 💻 My purpose is become a **Data Scientist**. I’m currently graduating with a BS degree in Data Science at the **[UNIVESP](https://univesp.br/)**. In addition, I'm trying to accelerate my learning curve with the key tools for data analysis, data vizualization and building machine learning models.
 
 <p align="center">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/python-original-wordmark.svg" width="60" /></a>

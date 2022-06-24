@@ -3,8 +3,8 @@
 <h3>About me:</h3>
 
 - 🧔🏿‍♂️ My name is **André**,  I'm **35** years old and I live in **São Paulo (BR)**.
-- ⚙️ I’m a Mechanical **Engineer**. My job, in summary, it is **solve complex problems** thru structural analysis in order to overcome the main challenges faced by Engineering Department.
-- 🗣️ My native language is **Portuguese** and I'm comfortable speaking **English** also.
+- ⚙️ I’m a **Mechanical Engineer**. My job, in summary, it is **solve complex problems** thru structural analysis in order to overcome the main challenges faced by Stress Engineering & Project Departments.
+- 🗣️ My native language is **Portuguese** and I'm comfortable speaking **English** too.
 
 <h3>Purpose:</h3>
 

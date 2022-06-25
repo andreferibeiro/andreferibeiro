@@ -3,9 +3,10 @@
 <h3>About me:</h3>
 
 - 🧔🏿‍♂️ My name is **André**,  I'm **35** years old.
-- 🏠 I live in **São Paulo, Brazil**.
+- 🌎 I live in **São Paulo, Brazil**.
 - 🗣️ My native language is **Portuguese** and I'm comfortable speaking **English** too.
-- ⚙️ I’m a **Mechanical Engineer**. My job, in summary, it is **solve complex problems** through structural analysis in order to overcome the main challenges faced by Stress Engineering & Project Departments.
+- ⚙️ I’m a **Mechanical Engineer**. My job, in summary, it is **solve complex problems** through structural analysis.
+- 🏃🏾‍♂️ I also love **travelling** and **running**.
 
 <h3>Purpose:</h3>
 
@@ -26,18 +27,9 @@
 
 <h3>Portfolio:</h3>
 
-- 📂 I encourage you to visit my **[Portfolio](https://andreferibeiro.github.io/Portfolio/)**. 
+- 📂 I encourage you to visit my **[Project Portfolio](https://andreferibeiro.github.io/Portfolio/)**. 
 
 <h3>Contact:</h3>
 
 -  📨 Please send an e-mail to the address **moreira.andrefr@gmail.com**.
-
-<p align="center">
-        <a href=mailto:"moreira.andrefr@gmail.com" target="_blank" rel="noreferrer"><img src="images/Gmail_icon_(2020).svg" width="50" /></a>
-</p>
-
 -  💬 Or  send me a message on **[LinkedIn](https://www.linkedin.com/in/andreferibeiro/)**.
-
-<p align="center"><a href="https://www.linkedin.com/in/andreferibeiro">
-         <img src="images/LinkedIn_Logo.svg" width="120" /a>
-</p>

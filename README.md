@@ -12,7 +12,7 @@
 
 - 💻 My purpose is become a **Data Scientist**.
 - 🎓 I’m currently graduating with a BS degree in **Data Science** at the **[UNIVESP](https://univesp.br/)**. 
-- 📈 In addition, I'm trying to accelerate my learning curve with the key tools for **data analysis**, **data visualization** and **machine learning**.
+- 📈 In addition, I'm here to accelerate my learning curve with the key tools for **data analysis**, **data visualization** and **machine learning**.
 - 🧰 My **"toolbox"** contain:
 
 <p align="center">

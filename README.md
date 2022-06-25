@@ -3,7 +3,7 @@
 <h2>About me</h2>
 
 - 🧔🏿‍♂️ My name is **André**,  I'm **35** years old.
-- 🌎 I live in **São Paulo, Brazil**.
+- 🏠 I live in **São Paulo, Brazil**.
 - 🗣️ My native language is **Portuguese** and I'm comfortable speaking **English** too.
 - ⚙️ I’m a **Mechanical Engineer**. My job, in summary, it is **solve complex problems** through structural analysis.
 - 🏃🏾‍♂️ I also love **travelling** and **running**.
@@ -31,5 +31,5 @@
 
 <h2>Contact</h2>
 
--  📨 Please send an e-mail to the address: **moreira.andrefr@gmail.com**
--  💬 Or  send me a message on **[LinkedIn](https://www.linkedin.com/in/andreferibeiro/)**.
+-  📧 Please send an e-mail to the address: **moreira.andrefr@gmail.com**
+-  💬 You can also send me a message on **[LinkedIn](https://www.linkedin.com/in/andreferibeiro/)** *(professional)* or **[Instagram](https://www.instagram.com/andreferibeiro/)** *(personal)*.

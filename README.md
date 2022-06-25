@@ -33,7 +33,7 @@
 -  📨 Please send an e-mail to the address **moreira.andrefr@gmail.com**.
 
 <p align="center">
-        <a href=mailto:"moreira.andrefr@gmail.com" target="_blank" rel="noreferrer"><img src="images/Gmail_icon_(2020).svg" width="60" /></a>
+        <a href=mailto:"moreira.andrefr@gmail.com" target="_blank" rel="noreferrer"><img src="images/Gmail_icon_(2020).svg" width="50" /></a>
 </p>
 
 -  💬 Or  send me a message on **[LinkedIn](https://www.linkedin.com/in/andreferibeiro/)**.

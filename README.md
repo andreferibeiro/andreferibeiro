@@ -1,6 +1,6 @@
-<h2>Hi there 👋</h2>
+<h1>Hi there 👋</h1>
 
-<h3>About me:</h3>
+<h2>About me</h2>
 
 - 🧔🏿‍♂️ My name is **André**,  I'm **35** years old.
 - 🌎 I live in **São Paulo, Brazil**.
@@ -8,7 +8,7 @@
 - ⚙️ I’m a **Mechanical Engineer**. My job, in summary, it is **solve complex problems** through structural analysis.
 - 🏃🏾‍♂️ I also love **travelling** and **running**.
 
-<h3>Purpose:</h3>
+<h2>Purpose</h2>
 
 - 💻 My purpose is become a **Data Scientist**.
 - 🎓 I’m currently graduating with a BS degree in **Data Science** at the **[UNIVESP](https://univesp.br/)**. 
@@ -25,11 +25,11 @@
         <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="images/1200px-Scikit_learn_logo_small.svg.png" width="120" /></a>
 </p>
 
-<h3>Portfolio:</h3>
+<h2>Portfolio</h2>
 
 - 📂 I encourage you to visit my **[Portfolio](https://andreferibeiro.github.io/Portfolio/)**. 
 
-<h3>Contact:</h3>
+<h2>Contact</h2>
 
 -  📨 Please send an e-mail to the address: **moreira.andrefr@gmail.com**
 -  💬 Or  send me a message on **[LinkedIn](https://www.linkedin.com/in/andreferibeiro/)**.

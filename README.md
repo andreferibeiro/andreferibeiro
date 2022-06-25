@@ -10,7 +10,7 @@
 <h3>Purpose:</h3>
 
 - 💻 My purpose is become a **Data Scientist**.
-- 🎓 I’m currently graduating with a BS degree in Data Science at the **[UNIVESP](https://univesp.br/)**. 
+- 🎓 I’m currently graduating with a BS degree in **Data Science** at the **[UNIVESP](https://univesp.br/)**. 
 - 📈 In addition, I'm trying to accelerate my learning curve with the key tools for **data analysis**, **data visualization** and **machine learning**.
 - 🧰 My **"toolbox"** contain:
 

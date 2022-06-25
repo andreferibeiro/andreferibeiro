@@ -23,15 +23,21 @@
         <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="images/logo-wide-lightbg.svg" width="200" /></a>
         <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><img src="images/1200px-Scikit_learn_logo_small.svg.png" width="120" /></a>
 </p>
+
 <h3>Portfolio:</h3>
 
 - 📂 I encourage you to visit my **[Portfolio](https://andreferibeiro.github.io/Portfolio/)**. 
 
 <h3>Contact:</h3>
 
--  📨 Please send an e-mail to the address: **moreira.andrefr@gmail.com**.
--  💬 Or  send me a message on LinkedIn.
+-  📨 Please send an e-mail to the address **moreira.andrefr@gmail.com**.
+
+<p align="center">
+        <a href="moreira.andrefr@gmail.com" target="_blank" rel="noreferrer"><img src="images/Gmail_icon_(2020).svg" width="60" /></a>
+</p>
+
+-  💬 Or  send me a message on **[LinkedIn](https://www.linkedin.com/in/andreferibeiro/)**.
 
 <p align="center"><a href="https://www.linkedin.com/in/andreferibeiro">
-         <img src="images/linkedin-logo.png" width="120" /a>
+         <img src="images/LinkedIn_Logo.svg" width="120" /a>
 </p>

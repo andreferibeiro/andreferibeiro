@@ -27,7 +27,7 @@
 
 <h3>Portfolio:</h3>
 
-- 📂 I encourage you to visit my **[Project Portfolio](https://andreferibeiro.github.io/Portfolio/)**. 
+- 📂 I encourage you to visit my **[Portfolio](https://andreferibeiro.github.io/Portfolio/)**. 
 
 <h3>Contact:</h3>
 

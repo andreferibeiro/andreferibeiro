@@ -31,5 +31,5 @@
 
 <h3>Contact:</h3>
 
--  📨 Please send an e-mail to the address **moreira.andrefr@gmail.com**.
+-  📨 Please send an e-mail to the address: **moreira.andrefr@gmail.com**
 -  💬 Or  send me a message on **[LinkedIn](https://www.linkedin.com/in/andreferibeiro/)**.
